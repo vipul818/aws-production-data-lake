@@ -24,7 +24,7 @@ This project reflects **real-world data engineering practices** suitable for a *
 5. Aggregated data is stored in **S3 Analytics zone**
 6. **Amazon Athena** queries analytics data efficiently
 7. **Amazon EventBridge + SNS** send email alerts on Glue job failures
-8. (Optional) **AWS Lambda** can trigger Glue on new data arrival (disabled after demo)
+8. **AWS Lambda** can trigger Glue on new data arrival (disabled after demo)
 
 ---
 
@@ -165,4 +165,5 @@ aws-production-data-lake/
 **Vipul Anand**
 Data Engineer
 📍 Pune, India
+
 
